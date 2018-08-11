@@ -1,13 +1,33 @@
-###²âÊÔ
-ÕâÊÇÕıÎÄ
+ayout:     post
+
+title:      JSONè½¬æ¨¡å‹ For YYModel
+
+subtitle:   ä½¿ç”¨ YYModelåº“ å¿«é€Ÿå®Œæˆ JSON è½¬æ¨¡å‹
+
+date:       2016-10-26
+
+author:     BY
+
+header-img: img/post-bg-ios9-web.jpg
+
+catalog: true
+
+tags:
+
+    - iOS
+
+    - å¼€å‘æŠ€å·§
+    
+###æµ‹è¯•
+è¿™æ˜¯æ­£æ–‡
 ---
->ÒıÓÃ
-»Øµ½ÕıÎÄ
+>å¼•ç”¨
+å›åˆ°æ­£æ–‡
 
-`printf("ÕâÊÇ´úÂë²âÊÔ);`
+`printf("è¿™æ˜¯ä»£ç æµ‹è¯•);`
 
-*Õâ¸öÊÂ*
+*è¿™ä¸ªäº‹*
 
-![Í¼Æ¬²âÊÔ](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533994924082&di=a17e9c98dcec5e1c42157cfa52429e99&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ff9198618367adab4b025268587d4b31c8601e47b.jpg)
-[ÍøÕ¾²âÊÔ](www.baidu.com)
+![å›¾ç‰‡æµ‹è¯•](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533994924082&di=a17e9c98dcec5e1c42157cfa52429e99&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ff9198618367adab4b025268587d4b31c8601e47b.jpg)
+[ç½‘ç«™æµ‹è¯•](www.baidu.com)
 ***
