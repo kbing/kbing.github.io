@@ -1,12 +1,13 @@
+---
 ayout:     post
 
-title:      JSON转模型 For YYModel
+title:      第一个
 
-subtitle:   使用 YYModel库 快速完成 JSON 转模型
+subtitle:   test
 
 date:       2016-10-26
 
-author:     BY
+author:     lk
 
 header-img: img/post-bg-ios9-web.jpg
 
@@ -17,6 +18,8 @@ tags:
     - iOS
 
     - 开发技巧
+    
+---
     
 ###测试
 这是正文
